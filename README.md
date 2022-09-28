@@ -1,5 +1,7 @@
 # UnityExplorerWrapper - A mod of *The Scroll of Taiwu*
 
+[中文说明](./README.zh_CN.md)
+
 Wrapped [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) for better inspecting and debugging ingame.
 
 ## Installation

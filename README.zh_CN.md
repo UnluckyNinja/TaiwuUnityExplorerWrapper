@@ -1,5 +1,7 @@
 # 太吾绘卷MOD - UnityExplorerWrapper
 
+[English](./README.md)
+
 将 [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) 集成至游戏中以供研究和调试
 
 <img src="preview.png" width=400></img>
