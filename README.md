@@ -4,6 +4,8 @@
 
 Wrapped [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) for better inspecting and debugging ingame.
 
+<img src="preview.png" width=400></img>
+
 ## Installation
 Download from Release, unzip to `/Mod` folder.  
 (Beware that you should alwasy start the game from Steam or TaiwuLauncher.exe, or you will get errors.)
